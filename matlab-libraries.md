@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Matlab libraries
+title: SPANLAB
 ---
 | [Home](/) | [Matlab Libraries recommended](matlab-libraries.md) | [Python Libraries recommended](python-libraries.md)
 
